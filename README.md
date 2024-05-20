@@ -1,16 +1,21 @@
-### Hi there 👋
+### Olá 👋
 
-<!--
-**JheniferD/JheniferD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sejam Bem Vindos 
 
-Here are some ideas to get you started:
+Meu nome de perfil é Jhenifer (meu segundo nome)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estou estudando na plataforma [Alura](https://www.alura.com.br)
+
+- Estou desenvolvendo habilidades em JavaSript e Scratch
+
+- E utilizo este espaço para poder organizar melhor os projetos sendo realizados
+
+
+## Você pode entrar em contato comigo por meio do meu e-mail constitucional 📪
+
+00001101563618SP@al.educacao.sp.gov.br
+
+![](https://media.tenor.com/eAMUkuktKvQAAAAi/creucat-wave.gif!)
+
+
+
